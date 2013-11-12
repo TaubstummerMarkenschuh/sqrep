@@ -1,0 +1,299 @@
+!SESSION 2013-11-05 11:34:29.026 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -data /home/mintmax/sq/workspace -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-11-05 11:35:05.887
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2013-11-05 11:36:01.189 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-11-05 11:36:05.470
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-11-05 11:36:19.626
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2013-11-05 11:43:08.547 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-11-05 11:43:25.439
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:53:28.606
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:53:28.606
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.606
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.606
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:53:28.606
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.606
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.606
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:53:28.609
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:53:28.609
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.609
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.609
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:53:28.609
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.609
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:28.609
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:53:51.174
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:53:51.174
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.174
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.174
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:53:51.174
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.174
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.174
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:53:51.175
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:53:51.175
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.176
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.176
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:53:51.176
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.176
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:53:51.176
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:56:15.202
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:56:15.203
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.203
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.203
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:56:15.203
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.203
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.203
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 11:56:15.204
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 11:56:15.204
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.204
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.204
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 11:56:15.204
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.204
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 11:56:15.204
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 12:00:35.208
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 12:00:35.208
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.208
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.208
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 12:00:35.208
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.208
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.209
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 12:00:35.211
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 12:00:35.211
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.211
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.211
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 12:00:35.211
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.211
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:00:35.211
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+!SESSION 2013-11-05 12:01:18.191 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-11-05 12:01:31.304
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2013-11-05 12:01:44.890
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://scala-ide.org/download/current.html.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:692)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:83)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2013-11-05 12:01:44.891
+!MESSAGE No repository found at http://scala-ide.org/download/current.html.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2013-11-05 12:01:50.141
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://scala-ide.org/download/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:692)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:83)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2013-11-05 12:01:50.141
+!MESSAGE No repository found at http://scala-ide.org/download/.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 12:02:11.356
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 12:02:11.357
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.357
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.357
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 12:02:11.357
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.357
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.357
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2013-11-05 12:02:11.362
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2013-11-05 12:02:11.362
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.362
+!MESSAGE Software being installed: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.362
+!MESSAGE Missing requirement: Scala Debug Plugin 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.debug 3.0.0.v-2_09-201303191340-dac2f1c) requires 'bundle org.eclipse.jdt.core [3.6.0,3.7.10)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-11-05 12:02:11.363
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.363
+!MESSAGE From: Scala IDE for Eclipse 3.0.0.v-2_09-201303191340-dac2f1c (org.scala-ide.sdt.feature.feature.group 3.0.0.v-2_09-201303191340-dac2f1c)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-11-05 12:02:11.363
+!MESSAGE To: org.scala-ide.sdt.debug [3.0.0.v-2_09-201303191340-dac2f1c]
+!SESSION 2013-11-05 12:08:09.271 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-11-05 12:11:22.902
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2013-11-12 12:38:32.956 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2013-11-12 12:39:28.373
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://scala-ide.org/download/current.html.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:692)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:83)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2013-11-12 12:39:28.376
+!MESSAGE No repository found at http://scala-ide.org/download/current.html.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2013-11-12 12:39:34.269
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://scala-ide.org/download/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:692)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:83)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2013-11-12 12:39:34.269
+!MESSAGE No repository found at http://scala-ide.org/download/.
