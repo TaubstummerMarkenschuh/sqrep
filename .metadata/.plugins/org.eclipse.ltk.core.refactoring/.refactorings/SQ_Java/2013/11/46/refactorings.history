@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SQ_Java/src/gettingStarted/new_diagram.uxf&apos; to &apos;UMLeTest.uxf&apos;" description="Rename resource &apos;new_diagram.uxf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/gettingStarted/new_diagram.uxf" name="UMLeTest.uxf" stamp="1384272349128" updateReferences="true"/>
+</session>
